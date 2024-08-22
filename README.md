@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : MUSFIRA MAHJABEEN M
-Roll no : 212223230130
+Name : SARAVANAN PV
+Roll no : 212223230195
 Date of experiment : 22.08.2024
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
